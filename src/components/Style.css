@@ -1,0 +1,37 @@
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    padding: 10px;
+    margin: 20px;
+    width: 100%;
+}
+
+tr {
+    text-align: center;
+padding: 10px;
+}
+
+label{
+    margin-right: 10px;
+}
+
+input{
+    margin-right: 10px;
+    padding: 5px;
+    border-radius: 5px;   
+}
+
+button {
+    margin-top: 20px;
+    padding: 15px;
+    font-size: larger;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
